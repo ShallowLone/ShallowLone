@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ShallowLone.
+- Currently, I am studying for a Bachelor's degree in Intelligent Technology at City University of Macau
 - I’m interested in DnB and League of Legend(PC and PE).
 - I’m currently learning Python and Web Design.
 - 📫 Contect me with Shallowlone@outlook.com
