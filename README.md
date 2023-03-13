@@ -6,7 +6,7 @@
 - Language： Chinese(简体中文), English 
 - 📫 Contect me with Shallowlone@outlook.com
 
-
+(加入佛门🙏,每日积德有助于生活胜利(虽然我不信佛),大悲咒  https://www.bilibili.com/video/BV1XE411S7Ew?vd_source=68e6b59a31ec0e8cdf66bdbe71f5208e)
 
 您好，欢迎来访我的GitHub 如果您有需求，请用邮箱联系我：Shallowlone@outlook.com
 
