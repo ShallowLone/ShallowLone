@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ShallowLone.
-- Currently, I am studying for a Bachelor's degree in Intelligent Technology at City University of Macau
-- I’m interested in DnB .
-- I’m currently learning Python and Web Design.
+- Currently, I am studying for a Bachelor's degree in Computer Science at City University of Macau
+- I’m interested in DnB(Liquicity), Rouge game and Moba game.
+- Region: Macau SAR/Guangdong, China.
+- My website(blog): https://shallowlone.com
+- Language： Chinese(简体中文), English 
 - 📫 Contect me with Shallowlone@outlook.com
+
+
 
 您好，欢迎来访我的GitHub 如果您有需求，请用邮箱联系我：Shallowlone@outlook.com
 
