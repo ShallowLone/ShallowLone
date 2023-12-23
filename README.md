@@ -1,7 +1,7 @@
 - Today, no snow, no sunshine, no emotion
 - Bachelor's degree in Computer Science at City University of Macau
 - Favourite: EDM: Liquid Funk/DnB, Rouge game and Moba/Rouge game.
-- Region: Macau SAR/Guangdong Province, China.
+- Region: Macau SAR/Guangdong Province, People's Republic of China.
 - Language： Chinese, English 
 - 📫 Contect me with Shallowlone@outlook.com
 
