@@ -2,7 +2,7 @@
 - Bachelor's degree in Computer Science at City University of Macau
 - Favourite: EDM: Liquid Funk/DnB, Rouge game and Moba game.
 - Region: Macau SAR/Guangdong Province, People's Republic of China.
-- Language： Chinese, English 
+- Language：Chinese, English 
 - 📫 Contect me with Shallowlone@outlook.com
 
 <!---
